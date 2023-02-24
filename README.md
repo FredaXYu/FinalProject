@@ -1,4 +1,6 @@
-# FinalProject
+# Final Project of BSc Computer Science, University of London
+
+## Title: Comparative Analysis of Neural Networks and General NLP Methods on An Academic Journal Article Database
 
 Started in Oct 2022, ended in Mar 2023. 
 
@@ -9,9 +11,12 @@ Started in Oct 2022, ended in Mar 2023.
 -------------------------
 -------------------------
 
-This folder includes: 
+## This folder includes: 
+
 - original codes
+
 ---- written by me
+
 ---- and written by famous paper authors (literature review codes)
 
 - data
@@ -19,9 +24,12 @@ This folder includes:
 - debug log
 
 - files
+
 ---- time management
+
 ---- report
----- 5min video slides in PDF
+
+---- 5min video and slides in PDF
 
 
 ## License: 
@@ -37,6 +45,11 @@ If you are a company and want to use my models, please contact me first.
 The results of my models can be referenced in your paper. The citation format: 
 
 Yu, Xiaoyun. "Comparative Analysis of Neural Networks and General NLP Methods on An Academic Journal Article Database." *University of London Final Project*, 13 Mar. 2023. 
+
+<br><br><br>
+
+- (Freda) Xiaoyun Yu, Feb. 2023
+
 
 
 
