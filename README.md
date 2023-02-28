@@ -11,6 +11,10 @@ Started in Oct 2022, ended in Mar 2023.
 -------------------------
 -------------------------
 
+## The Final Report
+
+Important: The Final Report is called '[MAIN]Final_Project_Final_Report_XYu_Feb27.pdf'. 
+
 ## This folder includes: 
 
 - original codes
@@ -19,17 +23,19 @@ Started in Oct 2022, ended in Mar 2023.
 
 ---- and written by famous paper authors (literature review codes)
 
+- files
+
+---- report
+
+---- time management
+
+---- 5min video and slides in PDF
+
 - data
 
 - debug log
 
-- files
 
----- time management
-
----- report
-
----- 5min video and slides in PDF
 
 
 ## License: 
