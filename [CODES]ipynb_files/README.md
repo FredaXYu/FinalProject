@@ -22,7 +22,7 @@ No one can use or copy any of my codes, especially if you are a University of Lo
 
 If you are a company or a research professional and want to use the conclusions or findings from my models, please contact me first: shireenyu2@163.com. You must give my works a proper citation, the format: 
 
-Yu, Xiaoyun. "Comparative Analysis of Neural Networks and General NLP Methods on An Academic Journal Article Database." *University of London, BSc Computer Science, Final Project*, 13 Mar. 2023. 
+Yu, Xiaoyun. "Comparative Analysis of Neural Networks and General NLP Methods on An Academic Journal Article Database." *University of London, BSc Computer Science, Final Project*, 13 Mar. 2023. https://github.com/FredaXYu/FinalProject. 
 
 
 
