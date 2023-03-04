@@ -13,34 +13,34 @@ Started in Oct 2022, ended in Mar 2023.
 
 ## The Final Report
 
-Important: The Final Report is called '[MAIN]Final_Project_Final_Report_XYu_Feb27.pdf'. 
+The Final Report is called '[MAIN]Final_Project_Final_Report_XYu.pdf'. 
 
 ## This folder includes: 
 
-- original codes
+- <b>original codes</b>
 
----- written by me
+---- <b>written by me</b> (see the folder named '[CODES]ipynb_files')
 
----- and written by famous paper authors (literature review codes)
+---- <b>and written by famous paper authors (literature review codes)</b>(see the folder named 'pre-trained_models' and 'tool_NNI')
 
-- files
+- <b>files</b>
 
----- report
+---- <b>Final Report</b> (in the main root)
 
----- time management
+---- <b>time management</b> (see the folder named 'time_management')
 
----- 5min video and slides in PDF
+---- <b>video demonstration slides in PDF</b> (see the folder named 'video_presentation'; or the video link: https://www.bilibili.com/video/BV1CY4y127YB/?share_source=copy_web&vd_source=296c14837e03501f00801a512d70f87e)
 
-- data
+- <b>data</b> (for the input data and the original output data, see the folder '[CODES]ipynb_files'; for a later adjustment for the train-validation-test split, see the folder 'database')
 
-- debug log
+- <b>debug log</b> (the 'debug_and_settings_log' folder)
 
 
 
 
 ## License: 
 
-Any codes in this folder should not be used in any individual's project, especially if you are a University of London student. This is based on the university law.    
+<b>Any codes in this folder should not be used in any individual's project</b>, especially if you are a University of London student. This is based on the university law.    
 
 If you really want to use my codes, you should write an email to me to gain my consent. My email is shireenyu@163.com.
 
@@ -54,7 +54,7 @@ Yu, Xiaoyun. "Comparative Analysis of Neural Networks and General NLP Methods on
 
 <br><br><br>
 
-- (Freda) Xiaoyun Yu, Feb. 2023
+-- (Freda) Xiaoyun Yu, Mar. 2023
 
 
 
