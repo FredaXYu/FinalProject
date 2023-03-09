@@ -48,7 +48,7 @@ My models should not be practically used by any agency as a filter standard to w
 
 If you are a company and want to use my models, please contact me first. 
 
-The results of my models can be referenced in your paper. The citation format: 
+The results of my models should be referenced in your paper, if you use my conclusions. The citation format: 
 
 Yu, Xiaoyun. "Comparative Analysis of Neural Networks and General NLP Methods on An Academic Journal Article Database." *University of London, BSc Computer Science, Final Project*, 13 Mar. 2023. https://github.com/FredaXYu/FinalProject. 
 
