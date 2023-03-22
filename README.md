@@ -19,9 +19,11 @@ The Final Report is called '[MAIN]Final_Project_Final_Report_XYu_Mar21.pdf'.
 
 - <b>original codes</b>
 
----- <b>written by me</b> (see [the folder](https://github.com/FredaXYu/FinalProject/tree/main/%5BCODES%5Dipynb_files) named '[CODES]ipynb_files')
+---- <b>written by me</b> (see [the folder](https://github.com/FredaXYu/FinalProject/tree/main/%5BCODES%5Dipynb_files) named '[CODES]ipynb_files', where the '[MAIN]Final_Project_Scientific_Articles_Mar10.ipynb' file is the main code file, and '[MAIN]Final_Project_Scientific_Articles_Mar10 - Jupyter Notebook.pdf' is its printed PDF version; 'Use_EventRegistry_API_to_retrieve_data_Jupyter.pdf' shows how I have retrieved data)
 
 ---- <b>and written by famous paper authors (literature review codes)</b>(see the folder named ['pre-trained_models'](https://github.com/FredaXYu/FinalProject/tree/main/pre-trained_models) and ['tool_NNI'](https://github.com/FredaXYu/FinalProject/tree/main/tool_NNI))
+
+- <b>experiment records</b> (see [the folder](https://github.com/FredaXYu/FinalProject/tree/main/%5BIMPORTANT%5Dexperiment_records) '[IMPORTANT]experiment_records')
 
 - <b>files</b>
 
